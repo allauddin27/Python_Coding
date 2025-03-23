@@ -1,0 +1,2 @@
+tkinter is a built-in library. if it is not found please istall to run the file.
+pip install tk
